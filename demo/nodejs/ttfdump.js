@@ -1,3 +1,4 @@
+//my comment
 var fs = require('fs');
 var ttfjs = require('./../../src/ttf.js');
 
